@@ -2,7 +2,7 @@
 
 Jenkinsfile for docker image building as airflow jobs (using capitalone's model).
 
-[Copyrighted (C)2023 Dwight Spencer. All Rights Reserved.](/LICENCE.md)
+[Copyrighted (C)2023 Dwight Spencer. All Rights Reserved.](/LICENCE)
 
 
 ## Requirements
